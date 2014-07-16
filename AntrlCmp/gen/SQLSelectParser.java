@@ -1,4 +1,4 @@
-// Generated from C:/Users/Andrey/IdeaProjects/AntrlCmp\SQLSelect.g4 by ANTLR 4.x
+// Generated from C:/Users/Andrey/IdeaProjects/GrammarDemo/AntrlCmp\SQLSelect.g4 by ANTLR 4.x
 import org.antlr.v4.runtime.atn.*;
 import org.antlr.v4.runtime.dfa.DFA;
 import org.antlr.v4.runtime.*;
