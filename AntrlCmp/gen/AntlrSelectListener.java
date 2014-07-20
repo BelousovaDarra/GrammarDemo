@@ -18,15 +18,15 @@ public interface AntlrSelectListener extends ParseTreeListener {
 	 */
 	void exitFrom_clause(@NotNull AntlrSelectParser.From_clauseContext ctx);
 	/**
-	 * Enter a parse tree produced by {@link AntlrSelectParser#literal_value}.
+	 * Enter a parse tree produced by {@link AntlrSelectParser#constv}.
 	 * @param ctx the parse tree
 	 */
-	void enterLiteral_value(@NotNull AntlrSelectParser.Literal_valueContext ctx);
+	void enterConstv(@NotNull AntlrSelectParser.ConstvContext ctx);
 	/**
-	 * Exit a parse tree produced by {@link AntlrSelectParser#literal_value}.
+	 * Exit a parse tree produced by {@link AntlrSelectParser#constv}.
 	 * @param ctx the parse tree
 	 */
-	void exitLiteral_value(@NotNull AntlrSelectParser.Literal_valueContext ctx);
+	void exitConstv(@NotNull AntlrSelectParser.ConstvContext ctx);
 	/**
 	 * Enter a parse tree produced by {@link AntlrSelectParser#table_or_subquery}.
 	 * @param ctx the parse tree
@@ -37,16 +37,6 @@ public interface AntlrSelectListener extends ParseTreeListener {
 	 * @param ctx the parse tree
 	 */
 	void exitTable_or_subquery(@NotNull AntlrSelectParser.Table_or_subqueryContext ctx);
-	/**
-	 * Enter a parse tree produced by {@link AntlrSelectParser#result_column}.
-	 * @param ctx the parse tree
-	 */
-	void enterResult_column(@NotNull AntlrSelectParser.Result_columnContext ctx);
-	/**
-	 * Exit a parse tree produced by {@link AntlrSelectParser#result_column}.
-	 * @param ctx the parse tree
-	 */
-	void exitResult_column(@NotNull AntlrSelectParser.Result_columnContext ctx);
 	/**
 	 * Enter a parse tree produced by {@link AntlrSelectParser#select}.
 	 * @param ctx the parse tree
@@ -77,6 +67,16 @@ public interface AntlrSelectListener extends ParseTreeListener {
 	 * @param ctx the parse tree
 	 */
 	void exitTable_name(@NotNull AntlrSelectParser.Table_nameContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link AntlrSelectParser#column}.
+	 * @param ctx the parse tree
+	 */
+	void enterColumn(@NotNull AntlrSelectParser.ColumnContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link AntlrSelectParser#column}.
+	 * @param ctx the parse tree
+	 */
+	void exitColumn(@NotNull AntlrSelectParser.ColumnContext ctx);
 	/**
 	 * Enter a parse tree produced by {@link AntlrSelectParser#expr}.
 	 * @param ctx the parse tree

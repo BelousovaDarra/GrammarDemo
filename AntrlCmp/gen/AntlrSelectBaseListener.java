@@ -28,13 +28,13 @@ public class AntlrSelectBaseListener implements AntlrSelectListener {
 	 *
 	 * <p>The default implementation does nothing.</p>
 	 */
-	@Override public void enterLiteral_value(@NotNull AntlrSelectParser.Literal_valueContext ctx) { }
+	@Override public void enterConstv(@NotNull AntlrSelectParser.ConstvContext ctx) { }
 	/**
 	 * {@inheritDoc}
 	 *
 	 * <p>The default implementation does nothing.</p>
 	 */
-	@Override public void exitLiteral_value(@NotNull AntlrSelectParser.Literal_valueContext ctx) { }
+	@Override public void exitConstv(@NotNull AntlrSelectParser.ConstvContext ctx) { }
 	/**
 	 * {@inheritDoc}
 	 *
@@ -47,18 +47,6 @@ public class AntlrSelectBaseListener implements AntlrSelectListener {
 	 * <p>The default implementation does nothing.</p>
 	 */
 	@Override public void exitTable_or_subquery(@NotNull AntlrSelectParser.Table_or_subqueryContext ctx) { }
-	/**
-	 * {@inheritDoc}
-	 *
-	 * <p>The default implementation does nothing.</p>
-	 */
-	@Override public void enterResult_column(@NotNull AntlrSelectParser.Result_columnContext ctx) { }
-	/**
-	 * {@inheritDoc}
-	 *
-	 * <p>The default implementation does nothing.</p>
-	 */
-	@Override public void exitResult_column(@NotNull AntlrSelectParser.Result_columnContext ctx) { }
 	/**
 	 * {@inheritDoc}
 	 *
@@ -95,6 +83,18 @@ public class AntlrSelectBaseListener implements AntlrSelectListener {
 	 * <p>The default implementation does nothing.</p>
 	 */
 	@Override public void exitTable_name(@NotNull AntlrSelectParser.Table_nameContext ctx) { }
+	/**
+	 * {@inheritDoc}
+	 *
+	 * <p>The default implementation does nothing.</p>
+	 */
+	@Override public void enterColumn(@NotNull AntlrSelectParser.ColumnContext ctx) { }
+	/**
+	 * {@inheritDoc}
+	 *
+	 * <p>The default implementation does nothing.</p>
+	 */
+	@Override public void exitColumn(@NotNull AntlrSelectParser.ColumnContext ctx) { }
 	/**
 	 * {@inheritDoc}
 	 *

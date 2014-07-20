@@ -82,19 +82,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AntlrSelect.g4" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AntlrSelect.g4" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AntlrSelect.g4">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="0.35628742" vertical-offset="0" max-vertical-offset="1751">
+            <state line="13" column="0" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Query.sql" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Query.sql" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Query.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="39" selection-start="39" selection-end="39" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+            <state line="0" column="35" selection-start="0" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="593">
               <folding />
             </state>
           </provider>
@@ -114,9 +114,9 @@
         <option value="$PROJECT_DIR$/src/com/x4m/CalcGrammar" />
         <option value="$PROJECT_DIR$/CalcGrammar" />
         <option value="$PROJECT_DIR$/SQLSelectGrammar" />
-        <option value="$PROJECT_DIR$/Query.sql" />
         <option value="$PROJECT_DIR$/SQLSelect.g4" />
         <option value="$PROJECT_DIR$/AntlrSelect.g4" />
+        <option value="$PROJECT_DIR$/Query.sql" />
       </list>
     </option>
   </component>
@@ -437,16 +437,16 @@
       <workItem from="1405350521478" duration="465000" />
       <workItem from="1405350987304" duration="1756000" />
       <workItem from="1405444410175" duration="4000" />
-      <workItem from="1405444547698" duration="8406000" />
+      <workItem from="1405444547698" duration="13014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15209000" />
+    <option name="totallyTimeSpent" value="19817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -461,13 +461,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6424731" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4502688" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="ANTLR Preview" active="true" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="true" weight="0.4502688" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26466382" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="ANTLR Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6424731" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="ANTLR Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15053764" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -669,13 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Query.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="39" selection-start="39" selection-end="39" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SQLSelect.g4">
       <provider selected="true" editor-type-id="text-editor">
         <state line="399" column="22" selection-start="10821" selection-end="10821" vertical-scroll-proportion="-116.68" vertical-offset="3866" max-vertical-offset="14484">
@@ -685,7 +678,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AntlrSelect.g4">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="0.35628742" vertical-offset="0" max-vertical-offset="1751">
+        <state line="13" column="0" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Query.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="35" selection-start="0" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="593">
           <folding />
         </state>
       </provider>
